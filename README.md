@@ -7,7 +7,6 @@ This repo contains sample facial recognition system construction using a compute
 It is a project that includes the process of performing recognition with OpenCV, by giving input to the Convolutional Neural Network Architecture created with the images taken using the OpenCV library, in the same way.
 
 ### Prerequisites
-
 '''
 Python 3.x.x
 OpenCV
@@ -16,7 +15,6 @@ Pandas
 Numpy
 PIL
 Matplotlib
-
 '''
 
 ## Model:
