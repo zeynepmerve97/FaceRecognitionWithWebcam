@@ -20,11 +20,11 @@ Matplotlib
 '''
 
 ## Model:
-Data: We created ourselves with OpenCV
-Type: Conv2D
-Optimizer: Adam
-Loss for first model: Categorical Crossentropy
-Loss for second model: Binary Crossentropy
+*Data: We created ourselves with OpenCV
+*Type: Conv2D
+*Optimizer: Adam
+*Loss for first model: Categorical Crossentropy
+*Loss for second model: Binary Crossentropy
 
 ## Authors
 
